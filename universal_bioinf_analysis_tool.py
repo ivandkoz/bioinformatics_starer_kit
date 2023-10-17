@@ -1,5 +1,5 @@
 from bioinf_tools.dna_rna_analisys_tools import dna_rna_analysis
-from bioinf_tools.fasta_analisys_tool import fasta_analysis
+from bioinf_tools.fasta_analisys_tool import fastaq_analysis
 from bioinf_tools.protein_analysis_tool import protein_analysis
 
 
