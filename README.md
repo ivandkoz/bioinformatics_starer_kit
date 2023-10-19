@@ -7,9 +7,7 @@
 
 ![вжух](https://github.com/ivandkoz/bioinformatics_starer_kit/blob/test_input_branch/img/vzhuh.jpg)
 
-Sure! Here's a README in Markdown format for your Bioinformatics Starter Kit repository:
 
-```
 # Bioinformatics Starter Kit
 
 This repository contains a collection of tools and utilities for bioinformatics analysis. It provides ready-to-use classes and functions for various tasks such as analyzing biological data, working with different file formats, and performing common bioinformatics operations.
@@ -92,10 +90,10 @@ result = file_handler.select_genes_from_gbk_to_fasta(file)
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
 
-## License
+## Contacts
 
 This project is licensed under the [MIT License](LICENSE).
 
 ```
 
-Please replace `ivandkoz` with your GitHub username if necessary.
+Please, if you have any suggestions for improvement or find a bug, email ivan.d.kozin@gmail.com
