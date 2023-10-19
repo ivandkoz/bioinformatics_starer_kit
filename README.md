@@ -77,23 +77,15 @@ from bioinformatics_starter_kit import BioFile
 file_handler = BioFile()
 
 # Parse BLAST output
-result = file_handler.parse_blast_output(file)
+result = file_handler.parse_blast_output(file_path)
 
 # Convert multiline FASTA to one-line format
-result = file_handler.convert_multiline_fasta_to_oneline(file)
+result = file_handler.convert_multiline_fasta_to_oneline(file_path)
 
 # Select genes from GBK file and convert to FASTA format
-result = file_handler.select_genes_from_gbk_to_fasta(file)
+result = file_handler.select_genes_from_gbk_to_fasta(file_path, genes)
 ```
 
 ## Contributing
 
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
-
-## Contacts
-
-This project is licensed under the [MIT License](LICENSE).
-
-```
-
-Please, if you have any suggestions for improvement or find a bug, email ivan.d.kozin@gmail.com
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request or contact with me by email ivan.d.kozin@gmail.com. Contributions are welcome!
