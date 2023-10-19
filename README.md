@@ -1,2 +1,8 @@
 # bioinformatics_starer_kit
-![тык](https://github.com/ivandkoz/bioinformatics_starer_kit/blob/test_input_branch/img/kto_prochital.jpg)https://github.com/ivandkoz/bioinformatics_starer_kit/blob/test_input_branch/img/kto_prochital.jpg)
+![тык](https://github.com/ivandkoz/bioinformatics_starer_kit/blob/test_input_branch/img/kto_prochital.jpg)
+
+> А если серьезно, я заболел и еле сделал задание :(
+> Еще и опоздал из-за желания сделать все функции
+> Мне правда стыдно, я постараюсь допилить ридми
+
+![вжух](https://github.com/ivandkoz/bioinformatics_starer_kit/blob/test_input_branch/img/vzhuh.jpg)
